@@ -1,3 +1,3 @@
 # Tetris
 
-Tetris Rain tutorial found from Youtube
+Tetris Rain tutorial found on Youtube
